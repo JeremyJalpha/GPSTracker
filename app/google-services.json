@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139638939251",
+    "project_id": "g00glenamingsucks01",
+    "storage_bucket": "g00glenamingsucks01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139638939251:android:380c1ebfda0b5757529406",
+        "android_client_info": {
+          "package_name": "com.sidekickapp.SidekickApp_Tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRlVqIbMYFiiD8JpGNigvWM-ddAyq_lzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
